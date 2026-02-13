@@ -1,0 +1,13 @@
+{
+  "name": "ms-users",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "pg": "^8.18.0",
+    "sqlite3": "^5.1.7"
+  }
+}
