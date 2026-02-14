@@ -499,7 +499,7 @@ MIT
 
 ## 👥 Autor
 
-Tu Nombre - [GitHub](https://github.com/tu-usuario)
+Jaime - [GitHub](https://github.com/Jaime-D-Z)
 
 ---
 
