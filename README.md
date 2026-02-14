@@ -503,4 +503,4 @@ Jaime - [GitHub](https://github.com/Jaime-D-Z)
 
 ---
 
-**¿Necesitas ayuda?** Abre un issue en GitHub o contacta al equipo de desarrollo.
+**¿Necesitas ayuda?** Abre un issue en GitHub o contacta el desarrollador
