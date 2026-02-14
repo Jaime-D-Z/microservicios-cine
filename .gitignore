@@ -1,0 +1,38 @@
+# --- IDEs y Sistema ---
+.vscode/
+.idea/
+.DS_Store
+*.swp
+Thumbs.db
+
+# --- Node.js (api-gateway y ms-users) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# --- Python (ms-movies) ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.env
+
+# --- Go (ms-tickets) ---
+/ms-tickets/ms-tickets (si generas un binario con ese nombre)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+go.work
+
+# --- Bases de Datos Locales ---
+*.db
+*.sqlite3
+
+# --- Docker ---
+.dockerignore 
